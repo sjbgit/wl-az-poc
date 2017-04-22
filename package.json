@@ -4,6 +4,7 @@
   "description": "My first chat app!",
   "dependencies": {
     "express": "4.10.2",
+    "mongodb": "^2.2.26",
     "socket.io": "1.2.0"
   }
 }
